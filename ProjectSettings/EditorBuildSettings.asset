@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Cenas/Splash.unity
+    guid: 4612633ce77cd6543b746f9ffd61fed2
+  - enabled: 1
+    path: Assets/Cenas/menuPrincipal.unity
+    guid: 2aaf04734cfc5994ba9076fe9d642855
+  - enabled: 1
+    path: Assets/Cenas/fase1.unity
+    guid: a2e96721b71064642838f8041e159b89
+  - enabled: 1
+    path: Assets/Cenas/fase2.unity
+    guid: 2154590ba260c234ca5fe61d3deaf15c
+  - enabled: 1
+    path: Assets/Cenas/fase3.unity
+    guid: 5092ad5b1f7e7a74ca1d8660dbf9c986
+  - enabled: 1
+    path: Assets/Cenas/fase4.unity
+    guid: 2a697aa6133856249bf69fca90e8e49f
+  - enabled: 1
+    path: Assets/Cenas/fase5.unity
+    guid: 9f67650477f071d4e849fa1c1f47b21e
+  - enabled: 1
+    path: Assets/Cenas/fase6.unity
+    guid: 66f030bf80d7483458a54f86c42932ba
+  - enabled: 1
+    path: Assets/Cenas/fase7.unity
+    guid: 5c0a9a4a5995a5442940fc179b6163a4
+  - enabled: 1
+    path: Assets/Cenas/fase8.unity
+    guid: 9b4e8e1594505cd47a2283beab4989f6
+  - enabled: 1
+    path: Assets/Cenas/fase9.unity
+    guid: d8d5c25e5360bcd4cbd4c0659d94b0ba
+  - enabled: 1
+    path: Assets/Cenas/EndGame.unity
+    guid: 1d17a2d355246a54aa6282d8267faf72

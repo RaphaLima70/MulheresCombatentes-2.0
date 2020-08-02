@@ -1,0 +1,185 @@
+fileFormatVersion: 2
+guid: 588b8f4806c915847bdcf4216614df60
+timeCreated: 1510965987
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: Armature_Mestre_014
+    100002: Cabeca
+    100004: Cube_035
+    100006: Espinha1
+    100008: Espinha2
+    100010: Espinha3
+    100012: L_Antebraco
+    100014: L_Braco
+    100016: L_Calcanhar
+    100018: L_Coxa
+    100020: L_Dedos_Pe
+    100022: L_Mao
+    100024: L_Nadega
+    100026: L_Ombro
+    100028: L_Panturrilha
+    100030: L_Sola
+    100032: Pescoco
+    100034: //RootNode
+    100036: R_Antebraco
+    100038: R_Braco
+    100040: R_Calcanhar
+    100042: R_Coxa
+    100044: R_Dedos_Pe
+    100046: R_Mao
+    100048: R_Nadega
+    100050: R_Ombro
+    100052: R_Panturrilha
+    100054: R_Sola
+    100056: Torax
+    400000: Armature_Mestre_014
+    400002: Cabeca
+    400004: Cube_035
+    400006: Espinha1
+    400008: Espinha2
+    400010: Espinha3
+    400012: L_Antebraco
+    400014: L_Braco
+    400016: L_Calcanhar
+    400018: L_Coxa
+    400020: L_Dedos_Pe
+    400022: L_Mao
+    400024: L_Nadega
+    400026: L_Ombro
+    400028: L_Panturrilha
+    400030: L_Sola
+    400032: Pescoco
+    400034: //RootNode
+    400036: R_Antebraco
+    400038: R_Braco
+    400040: R_Calcanhar
+    400042: R_Coxa
+    400044: R_Dedos_Pe
+    400046: R_Mao
+    400048: R_Nadega
+    400050: R_Ombro
+    400052: R_Panturrilha
+    400054: R_Sola
+    400056: Torax
+    4300000: Cube_035
+    7400000: Default Take
+    7400002: Corre_Avan_a1_edmond
+    7400004: Mulher_Anda
+    7400006: Mulher_Anda_001
+    7400008: Mulher_Atira
+    7400010: Mulher_Atira_001
+    7400012: Mulher_Caida
+    7400014: Mulher_Caida_001
+    7400016: Mulher_Levanta
+    7400018: Mulher_Levanta_001
+    7400020: Mulher_Morre
+    7400022: Mulher_Morre_001
+    7400024: Mulher_Parada
+    7400026: Mulher_Parada_001
+    7400028: Mulher_Policial_Anda
+    7400030: Mulher_Policial_Anda_001
+    7400032: Mulher_Policial_Atira
+    7400034: Mulher_Policial_Atira_001
+    7400036: Mulher_Pose1
+    7400038: Mulher_Pose1_001
+    7400040: Mulher_Pose2
+    7400042: Mulher_Pose2_001
+    7400044: Mulher_Pose3
+    7400046: Mulher_Pose3_002
+    7400048: Mulher_Pose4
+    7400050: Mulher_Pose4_002
+    7400052: Mulher_comemora
+    7400054: Mulher_comemora2
+    7400056: Mulher_comemora3
+    7400058: Pessoa_comemora1
+    7400060: Pessoa_comemora2
+    7400062: Pessoa_parado
+    7400064: Untitled_000
+    7400066: Untitled_001
+    7400068: Untitled_002
+    7400070: Untitled_018
+    7400072: Zumbi_Caminha
+    7400074: Zumbi_Caminha_001
+    7400076: Zumbi_Colosso_Caminha
+    7400078: Zumbi_Colosso_Caminha_001
+    7400080: Zumbi_Louco_Caminha
+    7400082: Zumbi_Louco_Caminha_001
+    9500000: //RootNode
+    13700000: Cube_035
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

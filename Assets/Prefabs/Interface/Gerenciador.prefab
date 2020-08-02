@@ -1,0 +1,91 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1431881428762296}
+  m_IsPrefabParent: 1
+--- !u!1 &1431881428762296
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4957349238318184}
+  - component: {fileID: 114494514095301930}
+  m_Layer: 0
+  m_Name: Gerenciador
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4957349238318184
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1431881428762296}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114494514095301930
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1431881428762296}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 62afec6064cf88147832c2dc1782af85, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  gold: 0
+  goldIni: 50
+  gText: {fileID: 0}
+  upGold: 0
+  upHPCasas: 0
+  multGold: 0
+  upDano: 0
+  upResist: 0
+  upHP: 0
+  repairSpeed: 0
+  cLink: {fileID: 0}
+  wlLink: {fileID: 0}
+  tempoAtual: 0
+  tempoFinal: 180
+  tempoDaWave: 0
+  tempoDaWaveIni:
+  - 60
+  - 60
+  - 60
+  tempoDeIntervalo: 0
+  tempoDeIntervaloIni: 5
+  waveAtual: 0
+  contaWaves: 0
+  partidaSurvivor: 1
+  estado: 0
+  nomeFase: 
+  contaCasa: 0
+  curou: 0
+  painelStart: {fileID: 0}
+  painelIntervalo: {fileID: 0}
+  contaTempoFaseText: {fileID: 0}
+  minutos: 0
+  segundos: 0
+  linkP: {fileID: 0}
+  dialogo: 0
+  dialogoObj: {fileID: 0}
+  startFade: 0
+  zumbis: []
